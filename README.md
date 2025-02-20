@@ -1,1 +1,1 @@
-# ev_ilani.sql
+ev ilani ile ilgili veritabanı oluşturuldu 
